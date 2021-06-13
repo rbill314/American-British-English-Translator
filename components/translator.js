@@ -90,4 +90,4 @@ class Translator {
 
 }
 
-module.exports = Translator;
+module.exports = Translator
