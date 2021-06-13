@@ -1,4 +1,4 @@
-module.exports = {
+const britishOnly = {
   "abseil": "rappel",
   "accountancy": "accounting",
   "advert": "advertisement",
@@ -243,3 +243,5 @@ module.exports = {
   "y-fronts": "briefs",
   "zebra crossing": "crosswalk"
 }
+
+module.exports = britishOnly

@@ -1,8 +1,10 @@
-module.exports = {
-  'mr.': 'mr',
-  'mrs.': 'mrs',
-  'ms.': 'ms',
-  'mx.': 'mx',
-  'dr.': 'dr',
-  'prof.': 'prof'
+const americanToBritishTitles = {  
+  "mrs.": "Mrs",
+  "mr.": "Mr",  
+  "ms.": "Ms",
+  "mx.": "Mx",
+  "dr.": "Dr",
+  "prof.": "Prof"
 }
+
+module.exports = americanToBritishTitles
